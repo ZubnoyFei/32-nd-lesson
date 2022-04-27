@@ -1,0 +1,23 @@
+{
+  "name": "32-nd-lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZubnoyFei/32-nd-lesson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZubnoyFei/32-nd-lesson/issues"
+  },
+  "homepage": "https://github.com/ZubnoyFei/32-nd-lesson#readme",
+  "devDependencies": {
+    "jest": "^28.0.2"
+  }
+}
